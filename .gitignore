@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.iml
+*/*.iml
+*/*/*.iml
+*/target
+*/*/target
+*/*/*/target
+*.classpath
+*/*.classpath
+*/*/*.classpath
+*.project
+*/*.project
+*/*/*.project
+log/
+/log/
+/jstxb-issued-generator
